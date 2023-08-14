@@ -1,1 +1,1 @@
-# Telegram-Currency-Bot-
+# JavaCurrencyBotTelegram
